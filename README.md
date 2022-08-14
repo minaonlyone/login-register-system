@@ -31,7 +31,7 @@
 
 # Screenshots
 ![](screenshots/Screenshot1.png)
-![](screenshots/Screenshot2.png)
+![](screenshots/ScreenShot2.png)
 ![](screenshots/Screenshot3.png)
 ![](screenshots/Screenshot4.png)
 
